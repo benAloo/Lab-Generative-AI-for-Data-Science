@@ -17,3 +17,5 @@ As well as the more general process for generating code:
 3. Iterative Code Generation
 4. Testing & Validation
 5. Refinement & Optimization
+
+![Customer Segmentation Query Mock data test sql querys](image.png)
